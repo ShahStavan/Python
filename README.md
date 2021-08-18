@@ -1,5 +1,5 @@
 # Python
-<img src="https://lh3.googleusercontent.com/proxy/3hpr1L0QzOlQ9puy7w6PKoYaezMHZByOjAfTSsmA35l9NjKYKNPe8l2XIO16J2jbJH6bJiGr06jNvPd91maL8av00m8h-MZIGeunLPb6Da_x4rZ0f1JbPipUM9Gy07XZdzrQF-1vOQiXIdA">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScd6k7pKg_CtDgGR-bYlT3QZ7XwZ3NtzSz8Q&usqp=CAU">
 
 ### Let's Start a Journey from Basics to Advance in Python [Zero0️⃣ to Hero🦸]
 Let's cover Basics and then intermediate and then let's play with Datasets with numpy library and after heading towards plotting charts with matplotlib library in Python🐍
