@@ -1,0 +1,27 @@
+import cv2
+
+cap = cv2.VideoCapture(0)
+facerecognition = cv2.CascadeClassifier("E:\Python_Stocks\Python\haarcascade_frontalface_default.xml")
+eyerecognition = cv2.CascadeClassifier("Python\haarcascade_eye.xml")
+while True:
+    ret , frame = cap.read()
+    grayscale = cv2.cvtColor(frame,cv2.COLOR_BGR2GRAY)
+    if ret == False:
+        continue
+    # cv2.imshow("GrayScale",grayscale)
+    faces = facerecognition.detectMultiScale(grayscale,1.3,5)
+    
+
+    for (x,y,w,h) in faces:
+        cv2.rectangle(frame,(x,y),(x+w,y+h),(255,255,0),2)
+        roi_gray = grayscale[y:y + h, x:x + w]
+        roi_color = frame[y:y + h, x:x + w]
+        eyes = eyerecognition.detectMultiScale(roi_gray)
+        for (ex, ey, ew, eh) in eyes:
+            cv2.rectangle(roi_color, (ex, ey), (ex + ew, ey + eh), (0, 255, 255), 2)
+    cv2.imshow("Video Capturing",frame)
+    keypressed = cv2.waitKey(1) & 0xFF
+    if keypressed == ord('q'):
+        break
+cap.release()
+cv2.destroyAllWindows()  
