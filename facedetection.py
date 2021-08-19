@@ -1,8 +1,8 @@
 import cv2
 
 cap = cv2.VideoCapture(0)
-facerecognition = cv2.CascadeClassifier("E:\Python_Stocks\Python\haarcascade_frontalface_default.xml")
-eyerecognition = cv2.CascadeClassifier("Python\haarcascade_eye.xml")
+facerecognition = cv2.CascadeClassifier("E:\Python_Stocks\Python\haarcascade_frontalface_default.xml") # Here add your Relative Path 
+eyerecognition = cv2.CascadeClassifier("Python\haarcascade_eye.xml") # Relative Path where file is save
 while True:
     ret , frame = cap.read()
     grayscale = cv2.cvtColor(frame,cv2.COLOR_BGR2GRAY)
