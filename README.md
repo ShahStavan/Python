@@ -21,7 +21,7 @@ Let's cover Basics and then intermediate and then let's play with Datasets with 
 
 ### Working with Face Detection using OpenCV
 You need to download <strong>Haar Cacade Face Recognition and Eye Recognition .xml files </strong> either from my <a href="https://github.com/ShahStavan/Python">Python Repo</a> or from <a href="https://github.com/ShahStavan/opencv/tree/master/data/haarcascades">opencv</a>. <br>
-Code : <a href="https://github.com/ShahStavan/Python/blob/main/facedetection.py">Face Detection</a>
+Code : <a href="https://github.com/ShahStavan/Python/blob/main/facedetection.py">Face Detection</a> <br>
 For Further Help : <a href="https://machinelearningknowledge.ai/face-detection-with-haar-cascade-in-opencv-python/"> Face Detection with HAAR Cascade in OpenCV Python </a>
 
 ### Check this Repository for daily updates
