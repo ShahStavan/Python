@@ -24,5 +24,8 @@ You need to download <strong>Haar Cacade Face Recognition and Eye Recognition .x
 Code : <a href="https://github.com/ShahStavan/Python/blob/main/facedetection.py">Face Detection</a> <br>
 For Further Help : <a href="https://machinelearningknowledge.ai/face-detection-with-haar-cascade-in-opencv-python/"> Face Detection with HAAR Cascade in OpenCV Python </a>
 
+### Working with Stock Market Data in Python
+For that you need to install few libraries in Python such as Pandas and Numpy. Basically we will fetch data from different resources like Yahoo Finance, Google Finance, Aplhavantage and Quandl using pandas_datareader.<br>
+Code : <a href="https://github.com/ShahStavan/Python/blob/main/Finance.ipynb">Fetching Market Data</a><br>
 ### Check this Repository for daily updates
 #### Let's start our Journey from here🚴‍♂️
