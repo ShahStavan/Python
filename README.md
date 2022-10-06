@@ -27,5 +27,8 @@ For Further Help : <a href="https://machinelearningknowledge.ai/face-detection-w
 ### Working with Stock Market Data in Python
 For that you need to install few libraries in Python such as Pandas and Numpy. Basically we will fetch data from different resources like Yahoo Finance, Google Finance, Aplhavantage and Quandl using pandas_datareader.<br>
 Code : <a href="https://github.com/ShahStavan/Python/blob/main/Finance.ipynb">Fetching Market Data</a><br>
+### Useful Blogposts to Learn Python
+- [Introduction to Python - A Masterclass for Beginners](https://simplifiedweb.netlify.app/introduction-to-python-a-masterclass-for-beginners)
+- [Python Zero to Hero Beginners](https://dev.to/vivekcodes/python-zero-to-hero-beginners-5flk)
 ### Check this Repository for daily updates
 #### Let's start our Journey from here🚴‍♂️
