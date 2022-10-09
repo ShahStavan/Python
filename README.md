@@ -1,6 +1,16 @@
 # Python
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScd6k7pKg_CtDgGR-bYlT3QZ7XwZ3NtzSz8Q&usqp=CAU">
 
+- Table of Content
+    + [Roadmap](#roadmap)
+    + [Working with Face Detection using OpenCV](#working-with-face-detection-using-opencv)
+    + [Building your own blockchain in python](#building-your-own-blockchain-in-python)
+    + [Working with Stock Market Data in Python](#working-with-stock-market-data-in-python)
+    + [Useful Blogposts to Learn Python](#useful-blogposts-to-learn-python)
+    + [Check this Repository for daily updates](#check-this-repository-for-daily-updates)
+      - [Let's start our Journey from here🚴‍♂️](#let-s-start-our-journey-from-here-----)
+
+
 ### Let's Start a Journey from Basics to Advance in Python [Zero0️⃣ to Hero🦸]
 Let's cover Basics and then intermediate and then let's play with Datasets with numpy library and after heading towards plotting charts with matplotlib library in Python🐍
 
