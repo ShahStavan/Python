@@ -46,5 +46,7 @@ Code : <a href="https://github.com/ShahStavan/Python/blob/main/Finance.ipynb">Fe
 ### Useful Blogposts to Learn Python
 - [Introduction to Python - A Masterclass for Beginners](https://simplifiedweb.netlify.app/introduction-to-python-a-masterclass-for-beginners)
 - [Python Zero to Hero Beginners](https://dev.to/vivekcodes/python-zero-to-hero-beginners-5flk)
+### Books For Python
+- Learn Python The hard way
 ### Check this Repository for daily updates
 #### Let's start our Journey from here🚴‍♂️
